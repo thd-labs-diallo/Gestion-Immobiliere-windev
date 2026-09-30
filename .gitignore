@@ -1,0 +1,9 @@
+*.cpl
+*.wdk
+*.wwg
+*.WDP.user
+*/.build
+*/.WDSearch
+Exe/
+*.SEM
+*.MM
